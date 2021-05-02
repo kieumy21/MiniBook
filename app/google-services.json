@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50046005901",
+    "project_id": "minibook-1868c",
+    "storage_bucket": "minibook-1868c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50046005901:android:b818f994f919fb90d868c4",
+        "android_client_info": {
+          "package_name": "com.example.minibook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50046005901-af1qvnjpebvhttr8fjc4k02lmdlurqh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChl-C6_zuj1N4waL93-ic-_ZCRNonm4qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50046005901-af1qvnjpebvhttr8fjc4k02lmdlurqh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
